@@ -1,5 +1,5 @@
 ## Exp 10: Fabrication and Component Assembly of Printed Circuit Boards for Automatic Street Light Control.
-# DHARSHINIYAA KS (21222310004)
+
 ## AIM:
 To fabricate a printed circuit board (PCB) for the automatic street light control system and to assemble & solder all the electronic components onto the board as per the circuit design, ensuring proper functionality of the system.
 ## EQUIPMENT REQUIRED:
