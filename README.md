@@ -1,5 +1,5 @@
 ## Exp 10: Fabrication and Component Assembly of Printed Circuit Boards for Automatic Street Light Control.
-
+# DHARSHINIYAA KS (21222310004)
 ## AIM:
 To fabricate a printed circuit board (PCB) for the automatic street light control system and to assemble & solder all the electronic components onto the board as per the circuit design, ensuring proper functionality of the system.
 ## EQUIPMENT REQUIRED:
@@ -64,8 +64,13 @@ Soldering in PTH assembly is commonly done using wave soldering or hand solderin
 
 ## EXPECTED OUTPUT:
 ### Fabrication board:
+![image](https://github.com/user-attachments/assets/65415028-4af7-48d4-b928-1813edf398ed)
+
  
 ### Final Printed Circuit Board:
+
+![image](https://github.com/user-attachments/assets/dba3320e-9bcf-4b8c-bfaa-ea48f7cd1898)
+
 
 ## RESULT:
 Thus, the printed circuit board for the automatic street light control system was successfully fabricated using CNC milling and UV masking techniques. All components were assembled and soldered onto the PCB, and the final circuit was tested to verify its correct operation.
